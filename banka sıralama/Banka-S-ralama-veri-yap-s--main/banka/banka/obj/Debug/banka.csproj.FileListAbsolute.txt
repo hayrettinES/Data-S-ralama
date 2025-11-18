@@ -1,0 +1,14 @@
+C:\Users\efeak\source\repos\banka\banka\bin\Debug\banka.exe.config
+C:\Users\efeak\source\repos\banka\banka\bin\Debug\banka.exe
+C:\Users\efeak\source\repos\banka\banka\bin\Debug\banka.pdb
+C:\Users\efeak\source\repos\banka\banka\obj\Debug\banka.csproj.AssemblyReference.cache
+C:\Users\efeak\source\repos\banka\banka\obj\Debug\banka.csproj.CoreCompileInputs.cache
+C:\Users\efeak\source\repos\banka\banka\obj\Debug\banka.exe
+C:\Users\efeak\source\repos\banka\banka\obj\Debug\banka.pdb
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\banka console\banka\banka\bin\Debug\banka.exe.config
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\banka console\banka\banka\bin\Debug\banka.exe
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\banka console\banka\banka\bin\Debug\banka.pdb
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\banka console\banka\banka\obj\Debug\banka.csproj.AssemblyReference.cache
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\banka console\banka\banka\obj\Debug\banka.csproj.CoreCompileInputs.cache
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\banka console\banka\banka\obj\Debug\banka.exe
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\banka console\banka\banka\obj\Debug\banka.pdb
